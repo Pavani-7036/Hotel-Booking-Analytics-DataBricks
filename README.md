@@ -259,14 +259,4 @@ This project provided hands-on experience in:
 
 It reinforced the importance of **data quality, consistent business metrics, and reliable data processing** in building analytical solutions.
 
----
-
-## 🙏 Acknowledgement
-
-Developed as part of my **Data Engineering & Analytics Internship at Innomatics Research Labs**.
-
-Grateful to the trainers and mentors for their guidance and support throughout the project.
-
----
-
 **⭐ Feedback and suggestions are welcome!**
